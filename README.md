@@ -52,5 +52,5 @@ Here are some examples of the application's output.
 
 ## 📞 Contact
 
-For inquiries or collaboration, feel free to reach out at `bl.en.u4eac22079@bl.students.amrita.edu`.
+For inquiries or collaboration, feel free to reach out at `tejasairavikumar@gmail.com`.
 
